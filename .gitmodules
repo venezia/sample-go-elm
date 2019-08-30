@@ -1,0 +1,3 @@
+[submodule "elm/elm-mdc"]
+	path = elm/elm-mdc
+	url = git@github.com:aforemny/elm-mdc.git
